@@ -31,11 +31,10 @@ public:
         short n = 0;
 
         while (true) {
-            
-            cout << "\n\033[1;33m Hi there! What would you like to do today :)\033[0m\n\n";
-            cout << "\033[1;32m1. Add a new Entry\033[0m\n";
-            cout << "\033[1;32m2. View past Logs\033[0m\n";
-            cout << "\033[1;32m3. Add a new Event\033[0m\n\n";
+            cout << "\n\033[1;32m HII...Do you want to\033[0m\n\n";
+            cout << "\033[1;32m1. Add Log\033[0m\n";
+            cout << "\033[1;32m2. View Logs\033[0m\n";
+            cout << "\033[1;32m3. Events\033[0m\n\n";
             cout << "\033[1;32m4. Exit\033[0m\n\n";
             cout << endl;
             cout << "Select an Option: ";
@@ -56,37 +55,8 @@ public:
 
         }
     }
-    short chosedate() {
-        //implement
-        short n = 0;
-        Date d=d.currentDate();
-        while (true) {
-            
-            cout << "\n\033[1;33m Current Date is: \033[0m " << d.day<<"/"<<d.month<<"/"<<d.year <<"\n"<< endl;
 
-            cout << "\033[1;32m1. Do you want to Change Date \033[0m\n";
-            cout << "\033[1;32m2. Continue\033[0m\n\n";
-            cout << "\033[1;32m3. Go Back\033[0m\n\n";
-
-            cout << endl;
-            cout << "Select an Option: ";
-
-            try {
-                cin >> n;
-
-                if (n > 0 && n < 4) {
-                    return n;
-                }
-                else {
-                    cout << "\033[1;31m--Enter a value between 1 and 3--\033[0m\n";
-                }
-            }
-            catch (int e) {
-
-            }
-
-        }
-    }
+   
 
 
     short chooseCategoryMenu() {
@@ -94,7 +64,7 @@ public:
 
         while (true) {
 
-            cout << "\n\033[1;33m ChooseCategory\033[0m \n" << endl;
+            cout << "\n\033[1;32m ..Choose Your Category..\033[0m \n" << endl;
 
             cout << "\033[1;32m1. Health\033[0m\n";
             cout << "\033[1;32m2. Education\033[0m\n";
@@ -128,9 +98,9 @@ public:
         short n = 0;
 
         while (true) {
-
-            cout << "\033[1;32m1. View Topics By Date\033[0m\n";
-            cout << "\033[1;32m2. View Topicd By Category\033[0m\n\n";
+            cout << "\n";
+            cout << "\033[1;32m1. Search By Date\033[0m\n";
+            cout << "\033[1;32m2. View By Category\033[0m\n\n";
             cout << "\033[1;32m3. Go Back\033[0m\n\n";
 
             cout << endl;
@@ -160,7 +130,7 @@ public:
         short n = 0;
 
         while (true) {
-
+            cout << "\n";
             cout << "\033[1;32m1. Add Event\033[0m\n";
             cout << "\033[1;32m2. View Events\033[0m\n\n";
             cout << "\033[1;32m3. Go Back\033[0m\n\n";
@@ -192,7 +162,7 @@ public:
 
         while (true) {
 
-            cout << "\033[1;32m1. Go Back\033[0m\n\n";
+            cout << "\n\033[1;32m1. Go Back\033[0m\n\n";
             cout << "\033[1;32m. ..Add Date here...\033[0m\n";
 
             cout << endl;
@@ -221,7 +191,7 @@ public:
 
         while (true) {
 
-            cout << "\033[1;32m1. Upcoming Event\033[0m\n";
+            cout << "\n\033[1;32m1. Upcoming Event\033[0m\n";
             cout << "\033[1;32m2. Past Event\033[0m\n\n";
             cout << "\033[1;32m3. Go Back\033[0m\n\n";
 
@@ -253,7 +223,7 @@ public:
 
         while (true) {
 
-            cout << "\n\033[1;32m Event List\033[0m \n" << endl;
+            cout << "\n\033[1;32m ..Event List..\033[0m \n" << endl;
             cout << "\033[1;32m1. Go Back\033[0m\n";
             cout << "\033[1;32m2. Delete \033[0m\n\n";
 
@@ -284,7 +254,7 @@ public:
 
         while (true) {
 
-            cout << "\n\033[1;33m Event List....\033[0m \n" << endl;
+            cout << "\n\033[1;32m ..Event List..\033[0m \n" << endl;
             cout << "\033[1;32m1. Delete\033[0m\n";
             cout << "\033[1;32m2. Delete All\033[0m\n\n";
             cout << "\033[1;32m3. Go Back\033[0m\n\n";
@@ -316,7 +286,7 @@ public:
 
         while (true) {
 
-            cout << "\033[1;32m1. Save\033[0m\n";
+            cout << "\n\033[1;32m1. Save\033[0m\n";
             cout << "\033[1;32m2. Cancel\033[0m\n\n";
 
             cout << endl;

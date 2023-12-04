@@ -1,52 +1,13 @@
-﻿  Database.cpp
-  DataModels.cpp
-  DigitalDiary.cpp
+﻿  Menus.cpp
 E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(53,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(84,24): warning C4101: 'e': unreferenced local variable
+E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(52,24): warning C4101: 'e': unreferenced local variable
+E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(89,24): warning C4101: 'e': unreferenced local variable
 E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(119,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(149,24): warning C4101: 'e': unreferenced local variable
+E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(151,24): warning C4101: 'e': unreferenced local variable
 E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(181,24): warning C4101: 'e': unreferenced local variable
 E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(211,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(241,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(274,24): warning C4101: 'e': unreferenced local variable
+E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(244,24): warning C4101: 'e': unreferenced local variable
+E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(275,24): warning C4101: 'e': unreferenced local variable
 E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(305,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(335,24): warning C4101: 'e': unreferenced local variable
-  Menus.cpp
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(53,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(84,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(119,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(149,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(181,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(211,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(241,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(274,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(305,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(335,24): warning C4101: 'e': unreferenced local variable
-  Navigations.cpp
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(53,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(84,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(119,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(149,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(181,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(211,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(241,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(274,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(305,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(335,24): warning C4101: 'e': unreferenced local variable
-  UserIOStream.cpp
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(53,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(84,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(119,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(149,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(181,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(211,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(241,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(274,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(305,24): warning C4101: 'e': unreferenced local variable
-E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\DigitalDiary\Menus.cpp(335,24): warning C4101: 'e': unreferenced local variable
-  Generating Code...
+  LINK : E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\x64\Debug\DigitalDiary.exe not found or not built by the last incremental link; performing full link
   DigitalDiary.vcxproj -> E:\Github_work_place\DSA_Project\Digital_Diary_Console_Application\Digital_Diary_Console_Application\DigitalDiary\x64\Debug\DigitalDiary.exe
